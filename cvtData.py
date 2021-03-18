@@ -1,8 +1,8 @@
 import os 
 import numpy as np
 import tqdm as tqdm
-class cvtData:
-    def cvt_Data():
+
+def cvt_Data():
         if not os.path.exists('./fphab_data/newData'):
             os.mkdir('./fphab_data/newData')
             #for i in range(1,7):
