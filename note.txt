@@ -1,0 +1,6 @@
+- sửa lại file main.py 
+    + tìm hiểu về các occlusion
+    +
+    +
+- fix data path after upload to severs
+-try to replace the location number with the other one.
